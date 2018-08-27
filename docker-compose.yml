@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  api_autoevaluacion:
+    image: ${DOCKER_REGISTRY}apiautoevaluacion
+    build:
+      context: .\API_autoevaluacion
+      dockerfile: Dockerfile

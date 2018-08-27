@@ -99,7 +99,8 @@ C:\Users\Desarrollo\Documents\Github\API_autoevaluacion\API_autoevaluacion\bin\e
 C:\Users\Desarrollo\Documents\Github\API_autoevaluacion\API_autoevaluacion\bin\es\System.Web.WebPages.resources.dll
 C:\Users\Desarrollo\Documents\Github\API_autoevaluacion\API_autoevaluacion\bin\es\System.Web.WebPages.Deployment.resources.dll
 C:\Users\Desarrollo\Documents\Github\API_autoevaluacion\API_autoevaluacion\bin\es\System.Web.WebPages.Razor.resources.dll
-C:\Users\Desarrollo\Documents\Github\API_autoevaluacion\API_autoevaluacion\obj\Debug\API_autoevaluacion.csprojResolveAssemblyReference.cache
 C:\Users\Desarrollo\Documents\Github\API_autoevaluacion\API_autoevaluacion\obj\Debug\API_autoevaluacion.csproj.CoreCompileInputs.cache
 C:\Users\Desarrollo\Documents\Github\API_autoevaluacion\API_autoevaluacion\obj\Debug\API_autoevaluacion.dll
 C:\Users\Desarrollo\Documents\Github\API_autoevaluacion\API_autoevaluacion\obj\Debug\API_autoevaluacion.pdb
+C:\Users\Desarrollo\Documents\Github\API_autoevaluacion\API_autoevaluacion\obj\Debug\API_autoevaluacion.csprojAssemblyReference.cache
+C:\Users\Desarrollo\Documents\Github\API_autoevaluacion\API_autoevaluacion\obj\Debug\API_autoevaluacion.csproj.CopyComplete
